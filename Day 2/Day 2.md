@@ -4,8 +4,8 @@
 
 Linear regression is a method for finding the straight line or hyperplane that best fits a set of points.
 
-![dataset plot]()
-![prediction plot]()
+![dataset plot](assets/linear_regression_data.png)
+![prediction plot](assets/linear_regression_inference_line.png)
 
 The line equation is,
 
@@ -30,7 +30,7 @@ A sophisticated model can use more than one features.
 
 Loss function for Linear regression is Mean Squared Error.(Also known as L2 Loss.)
 
-![L2 loss equation]()
+![L2 loss equation](assets/L2_loss_equation.gif)
 
 Let's try implementing [Linear Regression in Scikit Learn.](https://colab.research.google.com/drive/1dbJr3bqCK8PIeavB0jHYWU0xZpkLm5Zj)
 
@@ -49,16 +49,16 @@ For example, consider that the probability of coconut falling on someone's head 
 A Sigmoid function, defined as follows, produces output that always falls between 0 and 1. So,the aim of logistic regression is to get a probabilistic value between 0 and 1, and you can see that in the graph
 
 Sigmoid function
-![sigmoid equation]()
+![sigmoid equation](assets/sigmoid_equation.png)
 
 Where,
 > `y = w1x1 + w2x2 + ... wNxN`
 > `and p is the predicted output.`
 
-![sigmoid plot]()
+![sigmoid plot](assets/sigmoid_plot.png)
 
 Loss function for Logistic regression is Log Loss
-![log loss equation]()
+![log loss equation](assets/log_loss_equation.png)
 
 ## Support Vector Machine
 
