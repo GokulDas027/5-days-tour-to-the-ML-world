@@ -42,5 +42,7 @@ Let's take it further..
 
 * [Basic Python](https://github.com/GokulDas027/basic-python)
 * [Numpy](https://colab.research.google.com/drive/13UE2YYNkhM7nuHgfMn98r8cOl6CiNoFY)
-* [Pandas]()
-* [Matplotlib]()
+* [Pandas](https://colab.research.google.com/drive/1AaqxSbupGhh6pNTfftfLhWxwOCimFBAk)
+* [Matplotlib](https://colab.research.google.com/drive/1ahJL5hYpsLarDivNzi3OXxyybnXk4aP5)
+
+
