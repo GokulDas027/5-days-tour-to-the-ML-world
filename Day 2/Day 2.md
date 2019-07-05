@@ -88,5 +88,18 @@ Loss function for Logistic regression is Log Loss
 Try doing [Logistic Regression using Scikit Learn](https://colab.research.google.com/drive/1tVqHkJVS6bNmCVPKRtk5FwWLYdoM85Ww)
 
 ## Support Vector Machine
+The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
+To separate the two classes of data points, there are many possible hyperplanes that could be chosen.
+Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes.
+Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
+
+![SVM Image](assets/svm_plot)
+![SVM Image_2](assets/svm_plot_2)
+
+![SVM_c](assets/svm_c_plot)
+
+Read more about SVM [here](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+
+[SVM Implementation](https://colab.research.google.com/drive/1ul3nDq97a1fT0Li6aClV-_iVB9pursSz)
 
 ## k-Means Clustering
