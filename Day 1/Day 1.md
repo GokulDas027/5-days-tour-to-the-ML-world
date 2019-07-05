@@ -13,8 +13,11 @@
 * validation
 * epoch
 * cost function
+* features
+* label / target
 * 
 *
+
 [Key ML Terminology](https://developers.google.com/machine-learning/glossary/)
 
 # Intro to ML
