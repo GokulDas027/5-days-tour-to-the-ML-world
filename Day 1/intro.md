@@ -38,4 +38,9 @@ Let's take it further..
   
     Of course there are trade offs in making it with the sambar powder, but you can still make it.. but don't expect it to be much special.
   
-  
+# if you don't know Python
+
+* [Basic Python](https://github.com/GokulDas027/basic-python)
+* [Numpy](https://colab.research.google.com/drive/13UE2YYNkhM7nuHgfMn98r8cOl6CiNoFY)
+* [Pandas]()
+* [Matplotlib]()

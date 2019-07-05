@@ -28,9 +28,33 @@ A sophisticated model can use more than one features.
 > `y' = b + w1x1 + w2x2 + w3x3 + .... + wNxN`
 > here, x1,x2,x3 are the different different features which predict for the label.
 
-Loss function for Linear regression is Mean Squared Error.(Also known as L2 Loss.)
+Cost function for Linear regression is Mean Squared Error.(Also known as L2 Loss.)
 
 ![L2 loss equation](assets/L2_loss_equation.gif)
+
+### Reducing Loss
+Reducing the loss is similar to the **"Hot and cold game"** kids play!(Hot if youre nearer,cold if youre not.)
+
+A Machine Learning model is trained by starting with an initial guess for the weights and bias and iteratively adjusting those guesses until learning the weights and bias with the lowest possible loss.
+
+* Gradient Descent
+Gradient Descent is a general function for minimizing a function, in this case the Mean Squared Error cost function.
+
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/1600/0*rBQI7uBhBKE8KT-X.png" height="300" width="500" alt="Gradient Descent"/>
+</p>
+
+To explain it very briefly, it is a way to determine how well the machine learning model has performed given the different values of each parameters.
+Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model. Parameters refer to coefficients in Linear Regression and weights in neural networks.
+In the above figure, we must reach the steepest point,i.e, the bottom most point here,which is the local minimum. We have to converge to that value, and then we can say, with minimum loss, we can predict the output.
+
+* Learning Rate
+
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/1600/0*QwE8M4MupSdqA3M4.png" height="300" width="500" alt="Gradient Descent"/>
+</p>
+
+We take steps in gradient descent to converge to the local minimum. But learning rate also shouldnt be to high or too low, which result in values other than local minimum.
 
 Let's try implementing [Linear Regression in Scikit Learn.](https://colab.research.google.com/drive/1dbJr3bqCK8PIeavB0jHYWU0xZpkLm5Zj)
 
@@ -58,7 +82,10 @@ Where,
 ![sigmoid plot](assets/sigmoid_plot.png)
 
 Loss function for Logistic regression is Log Loss
+
 ![log loss equation](assets/log_loss_equation.png)
+
+Try doing [Logistic Regression using Scikit Learn](https://colab.research.google.com/drive/1tVqHkJVS6bNmCVPKRtk5FwWLYdoM85Ww)
 
 ## Support Vector Machine
 
