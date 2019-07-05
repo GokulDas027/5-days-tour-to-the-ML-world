@@ -97,6 +97,7 @@ Maximizing the margin distance provides some reinforcement so that future data p
 ![SVM Image_2](assets/svm_plot_2.png)
 
 the C
+
 ![SVM_c](assets/svm_c_plot.png)
 
 Read more about SVM [here](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
