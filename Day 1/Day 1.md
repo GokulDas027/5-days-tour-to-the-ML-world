@@ -6,4 +6,15 @@
 
 [Intro to ML](https://docs.google.com/presentation/d/1gvPdU1bMKrgd7wFUvkhLyfi9uip5VNUq2rF0sZCosd0/edit?usp=sharing)
 
+
+# Terms in ML
+* model
+* dataset
+* training
+* testing
+* validation
+* epoch
+* cost function
+* 
+*
 [Key ML Terminology](https://developers.google.com/machine-learning/glossary/)
