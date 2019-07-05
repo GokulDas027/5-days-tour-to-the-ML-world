@@ -11,6 +11,9 @@
 1. 99% of AI we know are not AI, while the 1% are debatable .
 2. Machine Learning is not Artificial Intelligence, it's a path to Artificial Intelligence.
 3. Deep Learning is a subset of ML.
+
+   ![Ml subset](assets/ml_subset.jpg)
+   
 4.
 
 # How excited are you about ML???
