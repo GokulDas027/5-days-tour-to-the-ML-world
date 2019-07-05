@@ -93,10 +93,11 @@ To separate the two classes of data points, there are many possible hyperplanes 
 Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes.
 Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
 
-![SVM Image](assets/svm_plot)
-![SVM Image_2](assets/svm_plot_2)
+![SVM Image](assets/svm_plot.png)
+![SVM Image_2](assets/svm_plot_2.png)
 
-![SVM_c](assets/svm_c_plot)
+the C
+![SVM_c](assets/svm_c_plot.png)
 
 Read more about SVM [here](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
