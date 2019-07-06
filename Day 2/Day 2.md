@@ -113,7 +113,7 @@ Kmeans algorithm is an iterative algorithm that tries to partition the dataset i
 
 Read more about k-Means [here](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
 
-Let's try [implementing k-Means]()
+Let's try [implementing k-Means](https://colab.research.google.com/drive/1bxaLyMwmsHgoUjNwYB2ftHkTWklQPI52)
 
 
 Project : Let's Move on to something more real.
