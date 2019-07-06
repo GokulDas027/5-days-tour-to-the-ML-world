@@ -1,6 +1,9 @@
 <html>
-  <h2>okay,now ,let's move on to Neural Networks</h2>
+  <h2>okay now, let's move on to Neural Networks</h2>
   </br>
+<h3> Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.</h3>
+— Andrew Ng, Founder of deeplearning.ai and Coursera
+
 <h1>Topics</h1>
 <h2>Neurons In brain</h2>
   <h4>Cells within the nervous system, called neurons, communicate with each other in unique ways. The neuron is the basic working unit of the brain, a specialized cell designed to transmit information to other nerve cells, muscle, or gland cells.
