@@ -115,8 +115,12 @@ Read more about k-Means [here](https://towardsdatascience.com/k-means-clustering
 
 Let's try [implementing k-Means](https://colab.research.google.com/drive/1bxaLyMwmsHgoUjNwYB2ftHkTWklQPI52)
 
+## Some other important Algorithms.
+* **[Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)**
+* **[Decision Tree](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)**
+* **[K-Nearest Neighbors](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)**
 
-Project : Let's Move on to something more real.
+## Project : Let's Move on to something more real.
 Try Solving [California Housing Price Prediction..](https://www.kaggle.com/camnugent/california-housing-prices)
 
 [.](https://www.kaggle.com/gokuldas027/housing-price-prediction-with-linear-regression)
