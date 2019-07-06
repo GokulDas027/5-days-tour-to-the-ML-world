@@ -108,9 +108,15 @@ Read more about SVM [here](https://towardsdatascience.com/support-vector-machine
 
 Kmeans algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the inter-cluster data points as similar as possible while also keeping the clusters as different (far) as possible. The approach kmeans follows to solve the problem is called Expectation-Maximization.
 
-![k-Means Data Plot](kmeans_data_plot.png)
-![k-Means Classified](kmeans_data_centeroid_plot.png)
+![k-Means Data Plot](assets/kmeans_data.png)
+![k-Means Classified](assets/kmeans_data_centeroid_plot.png)
 
 Read more about k-Means [here](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
 
 Let's try [implementing k-Means]()
+
+
+Project : Let's Move on to something more real.
+Try Solving [California Housing Price Prediction..](https://www.kaggle.com/camnugent/california-housing-prices)
+
+[.](https://www.kaggle.com/gokuldas027/housing-price-prediction-with-linear-regression)
