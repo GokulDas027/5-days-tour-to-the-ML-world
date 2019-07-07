@@ -67,17 +67,6 @@ In practical terms, deep learning is just a subset of machine learning.
 Let’s go back to the flashlight example: it could be programmed to turn on when it recognizes the audible cue of someone saying the word “dark”. Eventually, it could pick up any phrase containing that word. Now if the flashlight had a deep learning model, it could maybe figure out that it should turn on with the cues “I can’t see” or “the light switch won’t work”. A deep learning model is able to learn through its own method of computing – its own “brain”, if you will.
 ### So,any clue as to why I explained about a neuron earlier?
 
-## DNN Training
-
-## Training
-What happens when you try to learn something for an examination? You dont exactly memorise everything as such, right?
-You create a model inside your head, so that when a question is asked , you can answer accordingly using the model you have inside your head.
-
-The training data must contain the correct answer, which is known as a target or target attribute. The learning algorithm finds patterns in the training data that map the input data attributes to the target (the answer that you want to predict), and it outputs an ML model that captures these patterns.
-
-You can use the ML model to get predictions on new data for which you do not know the target. For example, let's say that you want to train an ML model to predict if an email is spam or not spam. You would provide the network with training data that contains emails for which you know the target (that is, a label that tells whether an email is spam or not spam). The network would train an ML model by using this data, resulting in a model that attempts to predict whether new email will be spam or not spam.
-
-
 Lets take a look inside Neural Networks.
 ## Activation Functions
 
@@ -124,6 +113,17 @@ But how does it work?
    
 ![activation funtion](https://cdn-images-1.medium.com/max/800/1*0iOzeMS3s-3LTU9hYH9ryg.png)
 
+## DNN Training
+
+## Training
+What happens when you try to learn something for an examination? You dont exactly memorise everything as such, right?
+You create a model inside your head, so that when a question is asked , you can answer accordingly using the model you have inside your head.
+
+The training data must contain the correct answer, which is known as a target or target attribute. The learning algorithm finds patterns in the training data that map the input data attributes to the target (the answer that you want to predict), and it outputs an ML model that captures these patterns.
+
+You can use the ML model to get predictions on new data for which you do not know the target. For example, let's say that you want to train an ML model to predict if an email is spam or not spam. You would provide the network with training data that contains emails for which you know the target (that is, a label that tells whether an email is spam or not spam). The network would train an ML model by using this data, resulting in a model that attempts to predict whether new email will be spam or not spam.
+
+
 ## How DNNs learn?
 
 ## Forward and Backward Propogation
@@ -138,11 +138,30 @@ But how does it work?
 
 The basic learning that has to be done in neural networks is training neurons when to get activated. Each neuron should activate only for particular type of inputs and not all inputs. Therefore, by propagating forward you see how well your neural network is behaving and find the error. After you find out that your network has error, you back propagate and use a form of gradient descent to update new values of weights. Then, you will again forward propagate to see how well those weights are performing and then will backward propagate to update the weights. This will go on until you reach some minima for error value.
 
+![frwdprop_backprop](assets/frwdprop_backprop.gif)
+
 ## Types of Neural Networks
-1. Convolutional Neural Networks
-2. Recurrent Neural Networks
-3. LSTM
-4. 
+## 1. Convolutional Neural Networks
+![convolution_model_architecture](assets/conv_model_arch.jpeg)
+![convolution_model_architecture2](assets/conv_model_arch2.jpeg)
+
+![convolution_filter](assets/convolution_filter.gif)
+
+![convolution_filter1](assets/conv_filter_1.gif)
+![convolution_filter2](assets/conv_filter_2.gif)
+![convolution_filter3](assets/conv_filter_3.gif)
+
+![cnn_simulation_mnist](assets/cnn_simulation_mnist.gif)
+
+## 2. Recurrent Neural Networks
+
+![recurrent_nn_arch](assets/recurrent_nn_arch.png)
+![rnn_connection_types](assets/rnn_connection_types.jpeg)
+
+## 3. LSTM
+
+![lstm_arch](assets/lstm_arch.jpg)
+![lstm_internal](assets/lstm_internal.png)
 
 ## Different NN Architectures
 
@@ -172,3 +191,5 @@ The basic learning that has to be done in neural networks is training neurons wh
 
 ![adversarial_panda](assets/adversarial_panda.png)
 
+## Fun Time ;)
+[TensorFlow Playground](https://playground.tensorflow.org)
