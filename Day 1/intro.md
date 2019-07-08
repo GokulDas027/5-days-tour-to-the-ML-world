@@ -4,17 +4,28 @@
 
 ## Why is it necessary?
 
+![stark_name](assets/dont_screw.jpg)
+
 ## Spot AI around us.!!!
+
+# What do you know about AI/ML?
+
+![ML interview](assets/ml_learning.jpg)
 
 # Some basic Declarations.
 
 1. 99% of AI we know are not AI, while the 1% are debatable .
+
 2. Machine Learning is not Artificial Intelligence, it's a path to Artificial Intelligence.
+![what if i say](assets/ml_ai_diff.jpg)
+
 3. Deep Learning is a subset of ML.
 
    ![Ml subset](assets/ml_subset.jpg)
    
 4.
+
+![Flow Chart](assets/ai_flowchart.jpg)
 
 # How excited are you about ML???
 Let's take it further..
@@ -34,8 +45,18 @@ Let's take it further..
   * https://www.youtube.com/user/keeroyz
   
   
-  ## to the big question..
-  # How much of Maths do you need??
+## AI Research Legends You must know about..
+  
+* Geoffrey Hinton
+* Yann LeCun
+* Yoshua Bengio
+* Andrew Ng
+* Ian Goodfellow
+* Ilya Sutskever
+* Fei-Fei Li
+  
+## to the big question..
+# How much of Maths do you need??
   
   * How many of you knows, how to make sambar??
   
