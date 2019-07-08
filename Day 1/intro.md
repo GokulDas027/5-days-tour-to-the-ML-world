@@ -6,7 +6,7 @@
 
 ![stark_name](assets/dont_screw.jpg)
 
-## Spot AI around us.!!!
+# Spot AI around us.!!!
 
 # What do you know about AI/ML?
 
@@ -17,7 +17,7 @@
 1. 99% of AI we know are not AI, while the 1% are debatable .
 
 2. Machine Learning is not Artificial Intelligence, it's a path to Artificial Intelligence.
-![what if i say](assets/ml_ai_diff.jpg)
+![what if i say](assets/ml_ai_diff.jpeg)
 
 3. Deep Learning is a subset of ML.
 
