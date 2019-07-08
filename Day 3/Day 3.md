@@ -181,7 +181,14 @@ The basic learning that has to be done in neural networks is training neurons wh
 
 ![overfitting](https://cdn-images-1.medium.com/max/1200/1*cdvfzvpkJkUudDEryFtCnA.png)
 
+### counter measures to avoid overfitting
 
+1. L1 Regularisation
+2. L2 Regularisation
+3. Dropout
+4. Early Stopping
+5. Data Augmentation
+[More at](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
 
 ## Challenges for Neural Network
 
