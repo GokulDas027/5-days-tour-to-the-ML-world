@@ -24,7 +24,7 @@ used for applications such as deep learning and natural language processing.[4] 
 Facebook's artificial-intelligence research group, and Uber's Pyro probabilistic programming language software is built on it.
 It is free and open-source software released under one of the BSD licenses.
 
-## Keras [[Docs](https://keras.io/) [tf.keras Docs](https://www.tensorflow.org/beta/guide/keras/overview)]
+## Keras [[Docs](https://keras.io/)] [[tf.keras Docs](https://www.tensorflow.org/beta/guide/keras/overview)]
 
 ![Keras Logo](assets/keras-logo.png)
 
@@ -37,7 +37,7 @@ it focuses on being user-friendly, modular, and extensible.
 [Learn Keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/keras.ipynb)
 
 ## The Real Superpower is....
-![keras_tensorflow](assets/easy_superpower)
+![keras_tensorflow](assets/easy_superpower.jpg)
 
 
 ## MNIST, respect traditions..
