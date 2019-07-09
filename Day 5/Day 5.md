@@ -12,6 +12,7 @@ GANs were introduced in 2014, by Ian Goodfellow and other researchers at the Uni
 
 > Generating a third image from two distinct images, such that, the new image contains the features on one image and the style of other image.
 
+![style transfer](assets/style_tx_cat.png)
 
 
 ## Closing Note..
