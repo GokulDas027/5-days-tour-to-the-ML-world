@@ -1,43 +1,29 @@
-# MAP to the Deep Learning world.
+# Let's  see something even more awesome..
 
-![ML Recommendation](assets/ml_recommendation.jpg)
+## Generative Advarsarial Networks
 
-## Links to Resource Pointers.
+> in short : Generative Advarsarial Networks, GANs are a type of Neural Network Architecture that could generate real like data.
 
-1. [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+GANs were introduced in 2014, by Ian Goodfellow and other researchers at the University of Montreal, including Yoshua Bengio in their paper Generative Adversarial Nets. GAN is just an awesome idea, in which we simultaneously train two models, One aganist the other!! One of the models is called the Generator, the creator who 'generates' data and the other is called the Discriminator, who is trained to be an expert in distinguishing the real data from the fake. The whole story is about the Generator getting better and eventually generating real like data, thereby fooling the Discriminator by showing Fake(Generated) data and getting it certified as Real.
 
-2. [Awesome Deep Learning](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+[Different Variants of GAN](https://github.com/GokulDas027/Generative-Adversarial-Networks-GANs)
 
-## Courses
+## Style Transfer
 
-* Udacity
-* Coursera
-* YouTube/SirajRaval
-* YouTube/Sentdex
-
-## Review about best papers:
-
-* [YouTube/Two Minute Papers](https://www.youtube.com/user/keeroyz/)
-   nb: this channel will keep you addicted to ML.
-
-## For Papers
-
-* [ArXiv](http://arxiv.org/)
-* [ArXiv Sanity (it's nicer!)](http://www.arxiv-sanity.com/)
-
-## For Data
-
-![privacy rights](assets/thats_okay.jpg)
-That's their right. Me too cares about privacy.
-
-* Kaggle
-* Google Dataset Search
-* GitHub
-* (google knows more, just ask)
-
-if you've been through all those.., head on to [here](https://www.khanacademy.org/) or [here](https://www.youtube.com/3blue1brown) because you're in..
+> Generating a third image from two distinct images, such that, the new image contains the features on one image and the style of other image.
 
 
-![thats_ml_for_you](assets/thats_ml_for_you.jpg)
+
+## Closing Note..
+
+![data heap](assets/ml_data_linalg.png)
+
+### yeah it seems like, but not exactly.. and...
+
+![practice](assets/practice-we-talkin-bout-practice.jpg)
 
 
+## Go break some eggs..
+I meant, data..
+
+![let it start](assets/let_it_starts.jpg)
