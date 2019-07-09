@@ -26,7 +26,7 @@ It is free and open-source software released under one of the BSD licenses.
 
 ## Keras [[Docs](https://keras.io/) [tf.keras Docs](https://www.tensorflow.org/beta/guide/keras/overview)]
 
-!Keras Logo](assets/keras-logo.png)
+![Keras Logo](assets/keras-logo.png)
 
 Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, 
 Microsoft Cognitive Toolkit, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, 
