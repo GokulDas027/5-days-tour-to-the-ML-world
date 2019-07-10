@@ -123,6 +123,7 @@ Let's try [implementing k-Means](https://colab.research.google.com/drive/1bxaLyM
 
 ## Project : Let's Move on to something more real.
 Try Solving [California Housing Price Prediction..](https://www.kaggle.com/camnugent/california-housing-prices)
+Do as in [this notebook](https://colab.research.google.com/drive/1Pea-fn96TO18MsjRHC87C0fICy7Wx8XG)
 
 [.](https://www.kaggle.com/gokuldas027/housing-price-prediction-with-linear-regression)
 [.](https://colab.research.google.com/drive/1YeLRjVigxw3QJSNJejItGxLynX7MDNw9)
