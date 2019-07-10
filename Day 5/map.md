@@ -6,7 +6,7 @@
 
 1. [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-2. [Awesome Deep Learning](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+2. [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ## Courses
 
