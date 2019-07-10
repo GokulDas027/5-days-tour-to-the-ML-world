@@ -10,10 +10,12 @@
 
 ## Courses
 
-* Udacity
-* Coursera
-* YouTube/SirajRaval
-* YouTube/Sentdex
+* [Udacity](udacity.com)
+* [Coursera](https://www.coursera.org/)
+* [School of AI](https://www.theschool.ai/)
+* [YouTube/SirajRaval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [YouTube/Sentdex](https://www.youtube.com/user/sentdex)
+* [edx.org](https://courses.edx.org/)
 
 ## Review about best papers:
 
