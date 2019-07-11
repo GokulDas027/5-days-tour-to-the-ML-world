@@ -59,6 +59,8 @@ In the above figure, we must reach the steepest point,i.e, the bottom most point
   <img src="https://cdn-images-1.medium.com/max/1600/0*QwE8M4MupSdqA3M4.png" height="300" width="500" alt="Gradient Descent"/>
 </p>
 
+[Learning rate optimization](https://developers.google.com/machine-learning/crash-course/fitter/graph)
+
 We take steps in gradient descent to converge to the local minimum. But learning rate also shouldnt be to high or too low, which result in values other than local minimum.
 
 Let's try implementing [Linear Regression in Scikit Learn.](https://colab.research.google.com/drive/1dbJr3bqCK8PIeavB0jHYWU0xZpkLm5Zj)
