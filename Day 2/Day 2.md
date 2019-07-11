@@ -37,16 +37,20 @@ Reducing the loss is similar to the **"Hot and cold game"** kids play!(Hot if yo
 
 A Machine Learning model is trained by starting with an initial guess for the weights and bias and iteratively adjusting those guesses until learning the weights and bias with the lowest possible loss.
 
-* Gradient Descent
+* **Gradient Descent**
 Gradient Descent is a general function for minimizing a function, in this case the Mean Squared Error cost function.
 
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/max/1600/0*rBQI7uBhBKE8KT-X.png" height="300" width="500" alt="Gradient Descent"/>
+<img src="https://cdn-images-1.medium.com/max/1600/0*rBQI7uBhBKE8KT-X.png" height="300" width="500" alt="Gradient Descent"/>
 </p>
+![gradient descent 2d](assets/gradient_descent3d.png)
+  
 
 To explain it very briefly, it is a way to determine how well the machine learning model has performed given the different values of each parameters.
 Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model. Parameters refer to coefficients in Linear Regression and weights in neural networks.
 In the above figure, we must reach the steepest point,i.e, the bottom most point here,which is the local minimum. We have to converge to that value, and then we can say, with minimum loss, we can predict the output.
+
+![gradient_descent_eqn](assets/gradient_descent_eqn.png)
 
 * Learning Rate
 
