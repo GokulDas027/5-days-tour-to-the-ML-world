@@ -4,7 +4,7 @@ okay, now let's move on to
 # Artificial Neural Networks
 
 ### Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.
-— Andrew Ng, Founder of deeplearning.ai and Coursera
+— **Andrew Ng**, Founder of deeplearning.ai and Coursera
 
 ## ANN Evolution.
 
@@ -51,7 +51,7 @@ The hype got back, when in 2012 a Deep Neural Network architecture AlexNet manag
  2. Hidden Layer
  3. Output Layer
  
-## Artificial Neural Networks and Deep Neural Networks
+## Artificial Neural Networks to Deep Neural Networks
 A deep neural network (DNN) is an artificial neural network (ANN) with multiple layers between the input and output layers.
  
  ![ANN and DNN](assets/ann_and_dnn.png)
@@ -60,28 +60,7 @@ A deep neural network (DNN) is an artificial neural network (ANN) with multiple 
  
 ## Difference between Deep Neural Networks and other Supervised ML Algorithms
 
-Machine learning is a lot of complex math and coding that, at the end of day, serves a mechanical function the same way a flashlight, a car, or a television does. When something is capable of “machine learning”, it means it’s performing a function with the data given to it, and gets progressively better at that function. It’s like if you had a flashlight that turned on whenever you said “it’s dark”, so it would recognize different phrases containing the word “dark”.
-
-Deep learning
-In practical terms, deep learning is just a subset of machine learning.
-Let’s go back to the flashlight example: it could be programmed to turn on when it recognizes the audible cue of someone saying the word “dark”. Eventually, it could pick up any phrase containing that word. Now if the flashlight had a deep learning model, it could maybe figure out that it should turn on with the cues “I can’t see” or “the light switch won’t work”. A deep learning model is able to learn through its own method of computing – its own “brain”, if you will.
-### So,any clue as to why I explained about a neuron earlier?
-
-Lets take a look inside Neural Networks.
-## Activation Functions
-
-To model a nonlinear problem, we can directly introduce a nonlinearity. We can pipe each hidden layer node through a nonlinear function.
-They introduce non-linear properties to our Network.Their main purpose is to convert a input signal of a node in a A-NN to an output signal. That output signal now is used as a input in the next layer in the stack.
-
-In the model represented by the following graph, the value of each node in Hidden Layer 1 is transformed by a nonlinear function before being passed on to the weighted sums of the next layer. This nonlinear function is called the activation function
-[MLCC reference](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy)
-
-Here are some activation functions
-1. ReLu -Rectified linear units
-2. Sigmoid
-3. Tanh — Hyperbolic tangent
-
-![Sigmoid ReLU and Tanh](assets/activations_srt.png)
+Neural Networks, as a subset of Machine Learning methods, both supervised and unsupervised, are non-deterministic classifiers (when we don't know the exact math model of the “brain” - ex.: why weights are distributing this way or that distribution, or why 5-layer NN works better than 4 or 6-layer ones in a particular case etc) for solving optimization problems. I mean here the absence of the exact math model (as in Linear Models) for the classifier, or lack of function in analytical form - not the heuristics and gradient descent as the method. 
  
 ## Neural Networks and perceptrons
 
@@ -112,6 +91,24 @@ But how does it work?
    For Example : Unit Step Activation Function.
    
 ![activation funtion](https://cdn-images-1.medium.com/max/800/1*0iOzeMS3s-3LTU9hYH9ryg.png)
+
+
+Lets take a look inside Neural Networks.
+## Activation Functions
+
+To model a nonlinear problem, we can directly introduce a nonlinearity. We can pipe each hidden layer node through a nonlinear function.
+They introduce non-linear properties to our Network.Their main purpose is to convert a input signal of a node in a A-NN to an output signal. That output signal now is used as a input in the next layer in the stack.
+
+In the model represented by the following graph, the value of each node in Hidden Layer 1 is transformed by a nonlinear function before being passed on to the weighted sums of the next layer. This nonlinear function is called the activation function
+[MLCC reference](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy)
+
+Here are some activation functions
+1. ReLu -Rectified linear units
+2. Sigmoid
+3. Tanh — Hyperbolic tangent
+
+![Sigmoid ReLU and Tanh](assets/activations_srt.png)
+
 
 ## DNN Training
 
