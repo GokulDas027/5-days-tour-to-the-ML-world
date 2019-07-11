@@ -51,7 +51,7 @@ To explain it very briefly, it is a way to determine how well the machine learni
 Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model. Parameters refer to coefficients in Linear Regression and weights in neural networks.
 In the above figure, we must reach the steepest point,i.e, the bottom most point here,which is the local minimum. We have to converge to that value, and then we can say, with minimum loss, we can predict the output.
 
-![gradient_descent_eqn](assets/gradientdescent_eqn.png)
+![gradient_descent_eqn](assets/gradient_descent_eqn.png)
 
 * Learning Rate
 
