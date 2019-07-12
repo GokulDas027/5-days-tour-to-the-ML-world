@@ -112,6 +112,9 @@ Here are some activation functions
 
 ## DNN Training
 
+## How does deep learning work?
+The magic in deep learning networks is **discovering the pattern and structure behind vast amounts of data**. The computational model consists of multiple layers, called neural networks, where data is processed.
+
 ## Training
 What happens when you try to learn something for an examination? You dont exactly memorise everything as such, right?
 You create a model inside your head, so that when a question is asked , you can answer accordingly using the model you have inside your head.
@@ -193,7 +196,21 @@ The basic learning that has to be done in neural networks is training neurons wh
 
 ![adversarial attack meme](assets/nn_challenge1_meme.jpeg)
 
+In 2014, a group of researchers at Google and NYU found that **it was far too easy to fool ConvNets with an imperceivable, but carefully constructed nudge in the input**. Let’s look at an example. We start with an image of a panda, which our neural network correctly recognizes as a “panda” with 57.7% confidence. Add a little bit of carefully constructed noise and the same neural network now thinks this is an image of a gibbon with 99.3% confidence! This is, clearly, an optical illusion — but for the neural network.
+
 ![adversarial_panda](assets/adversarial_panda.png)
+
+2. Okay, Lets try something even more easier..
+
+Another interesting work, titled “Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition” showed that one can fool facial recognition software by constructing adversarial glasses by dodging face detection altogether. These glasses could let you impersonate someone else as w
+
+![adversarial_glass](assets/adversarial_glass.png)
+
+You didn't get it's seriousnesss..
+
+![adversarial_seriousness](assets/adversarial_seriousness.png)
+
+source : [towardsdatascience.com](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
 
 ## Fun Time ;)
 [TensorFlow Playground](https://playground.tensorflow.org)
