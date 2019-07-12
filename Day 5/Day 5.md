@@ -14,6 +14,7 @@ GANs were introduced in 2014, by Ian Goodfellow and other researchers at the Uni
 
 ![style transfer](assets/style_tx_cat.png)
 
+## You've 10 minutes and The Internet, find what amazes you most.!!
 
 ## Closing Note..
 
@@ -24,7 +25,6 @@ GANs were introduced in 2014, by Ian Goodfellow and other researchers at the Uni
 ![practice](assets/practice-we-talkin-bout-practice.jpg)
 
 
-## Go break some eggs..
-I meant, data..
+## Go break some eggs.. I meant, data..
 
 ![let it start](assets/let_it_starts.jpg)
