@@ -7,6 +7,10 @@
 # What is ML?
 [What is ML?](https://docs.google.com/presentation/d/1I91hRJ-MZwuH-MZJNKJUBj7Pf4dQ9886AnUkvEWabNI/edit?usp=sharing)
 
+Nb. The "Machine" mentioned here isn't and AC machine nor a DC Machine..
+    Not a Steam engine nor and Internal Combustion engine..
+    It's all about Computer, teaching a computer to learn from Data, to learn from Mistakes..
+
 # Terms in ML
 
 * model
