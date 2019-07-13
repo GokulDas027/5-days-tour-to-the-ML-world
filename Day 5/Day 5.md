@@ -1,3 +1,14 @@
+# What if I say, DNN training could be even more easier..
+## Transfer Learning
+
+Transfer learning is a machine learning technique where a model trained on one task is re-purposed on a second related task.
+
+> **Transfer learning is the improvement of learning in a new task through the transfer of knowledge from a related task that has already been learned.**
+> — Chapter 11: Transfer Learning, Handbook of Research on Machine Learning Applications, 2009.
+
+![transfer_learning](assets/transfer_learning.png)
+
+
 # Let's  see something even more awesome..
 
 ## Generative Advarsarial Networks
