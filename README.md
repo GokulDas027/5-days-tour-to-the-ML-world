@@ -7,3 +7,5 @@ Course materials for 5 days of ML.
 ### Day 3 : Intro to DL workings
 ### Day 4 : Hands-on DL
 ### Day 5 : Map for the ML world
+
+since the repo is under continuous improvements, it is better to update the forks at times.
