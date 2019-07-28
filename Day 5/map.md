@@ -29,15 +29,18 @@
 
 ## For Data
 
-![privacy rights](assets/thats_okay.jpg)
-That's their right. Me too cares about privacy.
+Yeah we cares about privacy.
 
 * Kaggle
 * Google Dataset Search
 * GitHub
 * (google knows more, just ask)
 
-if you've been through all those.., head on to [here](https://www.khanacademy.org/) or [here](https://www.youtube.com/3blue1brown) because you're in..
+## Time for the Math
+
+* [khanacademy](https://www.khanacademy.org/)
+* [3blue1brown](https://www.youtube.com/3blue1brown)
+* [Eddie Woo](https://www.youtube.com/user/misterwootube)
 
 
 ![thats_ml_for_you](assets/thats_ml_for_you.jpg)
